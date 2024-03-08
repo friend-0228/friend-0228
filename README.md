@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Sea!;My+Name+is+Jun!;Scientia+Potentia+Est!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
-My name is Jun😊 I've come across development as a front-end, and I want to expand my reach to the back-end and artificial intelligence fields. I enjoy drinking alone, but I don't drink often🍺 and it's just a means of contemplation. Sometimes I write down and consider it📝, or I play the piano🎹
+My name is woojeong😊 I've come across development as a front-end, and I want to expand my reach to the back-end and artificial intelligence fields. I enjoy drinking alone, but I don't drink often🍺 and it's just a means of contemplation. Sometimes I write down and consider it📝, or I play the piano🎹
 
 Sometimes GitHub is quiet, maybe it's because I forgot to upload the repository...😅 I'm so into my own projects while eating late-night snacks (probably chicken🍗). It's been so long since my days and nights changed, and my insomnia still doesn't get better.
 
