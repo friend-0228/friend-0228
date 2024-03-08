@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a4c8eb,10:53a0ec,30:0080ff,75:1466b8,100:1d5286&height=120&section=header&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=&fontSize=0" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Sea!;My+Name+is+woojeong!;Scientia+Potentia+Est!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
